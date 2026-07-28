@@ -1,0 +1,816 @@
+customer_id,customer_name,signup_date,governorate,customer_segment,age
+CUST-00478,Mohamed Fahmy,09/25/2022,Minya,Consumer,39
+CUST-00471,Ali Gouda,2022-04-17,Minya,Consumer,39
+CUST-00220,Nour Mahmoud,2024-07-18,Beheira,Corporate,54
+CUST-00116,Ali Adel,02/09/2022,Giza,Small Business,30
+CUST-00428,Khaled Mahmoud,08/01/2024,Giza,Corporate,44
+CUST-00023,Mariam Hassan,03/08/2023,Ismailia,Corporate,21
+CUST-00412,Nesma Rashad,2023-06-08,Giza,,54
+CUST-00369,Mariam Farouk,20-Dec-2023,Ismailia,Consumer,27
+CUST-00330,Tarek Khalil,15/02/2022,sharqia,Corporate,61
+CUST-00660,Rana Gouda,2022-08-06,Faiyum,Corporate,34
+CUST-00731,Laila Ali,12/17/2023,Qalyubia,Small Business,62
+CUST-00018,Sara Rashad,19/09/2022,Gharbia,Small Business,36
+CUST-00192,Karim Farouk,25-Sep-2024,Cairo,Small Business,39
+CUST-00268,Nada Khalil,10/09/2023,Cairo,Consumer,30
+CUST-00593,Dina Ali,2022-09-18,Dakahlia,Consumer,25
+CUST-00717,Aya Rashad,29-Nov-2023,Alexandria,Corporate,19
+CUST-00470,Rana Gouda,02/03/2022,Cairo,Small Business,57
+CUST-00716,Sara Rashad,16-Sep-2024,Giza,Small Business,33
+CUST-00791,Khaled Khalil,2022-12-13,Minya,Corporate,21
+CUST-00049,Sara Kamal,23-Apr-2022,Gharbia,Consumer,26
+CUST-00477,Ali Kamal,04/08/2023,Cairo,Consumer,36
+CUST-00713,Hossam Rashad,10-Aug-2024,Alexandria,Consumer,34
+CUST-00374,Ahmed Ibrahim,01/19/2024,Aswan,Corporate,60
+CUST-00302,Heba Aziz,08/05/2024,cairo,Corporate,57
+CUST-00512,Mohamed Kamal,17-Jul-2022,Ismailia,Consumer,21
+CUST-00289,Sara Sabry,2022-10-01,Port Said,Consumer,41
+CUST-00766,Nour Shawky,02-Jul-2023,Cairo,Small Business,48
+CUST-00678,Tarek Farouk,2023-10-07,Qalyubia,Corporate,27
+CUST-00132,Heba Hassan,2023-09-22,Giza,Corporate,44
+CUST-00153,Nada Gouda,03/02/2022,Sharqia,Corporate,46
+CUST-00687,Youssef Adel,31/05/2023,Beheira,Consumer,48
+CUST-00794,Farida Rashad,21-Jan-2024,Cairo,Corporate,42
+CUST-00054,Yasmin Rashad,21-Oct-2023,Aswan,Consumer,48
+CUST-00442,Hossam Zaki,17/01/2023,Gharbia,Corporate,23
+CUST-00601,Adham Saad,2023-02-12,Aswan,Small Business,46
+CUST-00306,Mahmoud Ibrahim,02-Oct-2022,Cairo,Corporate,58
+CUST-00114,Tarek Rashad,14/02/2022,Alexandria,Corporate,64
+CUST-00571,Rania Naguib,2023-10-27,Faiyum,Consumer,25
+CUST-00436,Tarek Nabil,26/04/2024,Gharbia,Corporate,20
+CUST-00661,Rania Farouk,2023-01-10,Alexandria,Corporate,64
+CUST-00527,Yasmin Fathy,03-Jun-2022,Qalyubia,Consumer,21
+CUST-00214,Sara Shawky,2022-08-08,Cairo,,35
+CUST-00574,Farida Khalil,30/01/2022,Ismailia,Corporate,26
+CUST-00273,Farida Nabil,25-Sep-2022,Giza,Small Business,47
+CUST-00125,Aya Farouk,2022-05-21,Cairo,Small Business,62
+CUST-00004,Salma Shawky,24/12/2023,  Faiyum  ,Small Business,42
+CUST-00296,Rania Saad,17-Feb-2022,Minya,,35
+CUST-00007,Laila Hassan,01/10/2024,Cairo,Corporate,27
+CUST-00332,Amr Saad,2022-08-16,Qalyubia,Corporate,53
+CUST-00607,Dina Adel,2022-10-20,Ismailia,Small Business,18
+CUST-00509,Khaled Fathy,03/29/2023,Cairo,Small Business,65
+CUST-00677,Dina Hassan,2022-09-07,CAIRO,Corporate,55
+CUST-00120,Amr Younes,21-May-2024,Cairo,Consumer,28
+CUST-00075,Omar Farouk,11/06/2022,Beheira,Consumer,61
+CUST-00469,Yasmin Nabil,11-May-2022,Cairo,Consumer,62
+CUST-00246,Omar Ibrahim,2024-08-14,Alexandria,Small Business,44
+CUST-00466,Amr Fahmy,06/11/2022,Giza,Consumer,64
+CUST-00586,Ahmed Ibrahim,21-Mar-2024,Sharqia,Corporate,58
+CUST-00028,Nour Fahmy,02/05/2024,Alexandria,Consumer,26
+CUST-00636,Nada Rashad,08-Oct-2023,Alexandria,Small Business,19
+CUST-00704,Sara Aziz,15/01/2023,CAIRO,Consumer,64
+CUST-00267,Khaled Adel,12/01/2024,Suez,Consumer,35
+CUST-00351,Hassan Younes,02-Feb-2023,Alexandria,Consumer,54
+CUST-00127,Sara Fathy,05/05/2024,Cairo,Corporate,56
+CUST-00363,Karim Aziz,03/08/2022,Port Said,Corporate,62
+CUST-00557,Ahmed Nabil,03/07/2023,Gharbia,Corporate,51
+CUST-00264,Ali Nabil,2024-05-28,Gharbia,Small Business,21
+CUST-00776,Sherif Ali,16-Oct-2022,GIZ,Corporate,46
+CUST-00108,Nada Fahmy,04/12/2024,Cairo,Corporate,65
+CUST-00440,Adham Ali,2023-04-19,cairo,,25
+CUST-00079,Nesma Younes,15-Nov-2023,Giza,Consumer,43
+CUST-00646,Ibrahim Naguib,2024-07-16,Dakahlia,Corporate,27
+CUST-00475,Omar Zaki,25/03/2023,Monufia,Consumer,44
+CUST-00101,Youssef Aziz,26-Dec-2023,Alexandria,Small Business,51
+CUST-00082,Heba Kamal,05/13/2022,  Alexandria  ,Corporate,210
+CUST-00106,Hassan Sabry,14-Nov-2022,Aswan,Corporate,60
+CUST-00284,Hassan Hassan,12/08/2022,Qalyubia,Small Business,21
+CUST-00137,Youssef Sabry,07/14/2023,Giza,Corporate,29
+CUST-00031,Mahmoud Farouk,02/12/2024,Aswan,Corporate,64
+CUST-00033,Sara Adel,2022-05-07,Alexandria,Corporate,65
+CUST-00552,Mohamed Gouda,06/01/2023,Cairo,Small Business,63
+CUST-00016,Sherif Ibrahim,17-Sep-2023,Ismailia,,61
+CUST-00090,Karim Younes,2023-06-07,Cairo,Small Business,40
+CUST-00085,Heba Gouda,2023-02-19,GHARBIA,Small Business,36
+CUST-00543,Mostafa Khalil,03/21/2023,Dakahlia,Small Business,45
+CUST-00511,Tarek Ibrahim,2022-11-15,  Gharbia  ,Small Business,26
+CUST-00318,Aya Naguib,15-Apr-2024,Suez,Corporate,56
+CUST-00065,Aya Ali,25-Feb-2023,Giza,Corporate,45
+CUST-00259,Yasmin Farouk,2023-11-08,Qalyubia,Small Business,37
+CUST-00378,Omar Mahmoud,12/04/2022,Dakahlia,Small Business,19
+CUST-00724,Sara Fathy,2022-08-23,Cairo,Consumer,57
+CUST-00248,Dina Sabry,2024-07-01,Alexandria,Small Business,42
+CUST-00225,Nesma Farouk,05/21/2024,qalyubia,Small Business,30
+CUST-00585,Mohamed Ali,18/02/2023,Alexandria,Corporate,53
+CUST-00126,Mostafa Shawky,05-Apr-2023,Dakahlia,Consumer,19
+CUST-00581,Mahmoud Shawky,25-Nov-2022,Giza,Small Business,21
+CUST-00626,Ahmed Ali,11/16/2023,Giza,Consumer,59
+CUST-00175,Mohamed Shawky,29/06/2024,Dakahlia,Small Business,59
+CUST-00722,Farida Fathy,04-Jul-2024,Sharqia,,65
+CUST-00200,Mohamed Khalil,05/01/2023,Giza,Corporate,55
+CUST-00462,Ali Hassan,06/24/2023,Alexandria,Small Business,57
+CUST-00047,Ibrahim Gouda,10-Aug-2022,Port Said,Consumer,39
+CUST-00711,Mahmoud Ibrahim,17/07/2023,Giza,Corporate,55
+CUST-00041,Amr Shawky,23/09/2023,Alexandria,Small Business,20
+CUST-00337,Farida Shawky,10/04/2022,Alexandria,Corporate,46
+CUST-00668,Laila Mahmoud,10/02/2022,  Luxor  ,Small Business,24
+CUST-00501,Amr Ali,2023-07-31,Beheira,Small Business,52
+CUST-00550,Mostafa Fahmy,2024-07-12,Qalyubia,Consumer,28
+CUST-00130,Mahmoud Ali,06-May-2024,Faiyum,Corporate,52
+CUST-00521,Sara Khalil,04-Apr-2024,Minya,,63
+CUST-00295,Youssef Aziz,08/05/2022,FAI,Corporate,54
+CUST-00559,Karim Nabil,2022-04-27,  Beheira  ,,30
+CUST-00683,Sara Kamal,2024-01-12,Gharbia,Small Business,56
+CUST-00474,Mahmoud Sabry,20-Sep-2022,Beheira,Corporate,18
+CUST-00339,Mohamed Fahmy,2023-10-26,Cairo,Consumer,210
+CUST-00746,Hossam Gouda,13/08/2023,Dakahlia,Corporate,29
+CUST-00759,Mostafa Younes,08/05/2024,Cairo,Consumer,60
+CUST-00633,Heba Ibrahim,2024-02-04,Gharbia,Consumer,47
+CUST-00728,Nesma Kamal,2024-02-22,Faiyum,Small Business,43
+CUST-00719,Ali Fahmy,2023-02-27,  Minya  ,Corporate,52
+CUST-00780,Mariam Zaki,03/15/2022,qalyubia,Consumer,30
+CUST-00019,Tarek Ibrahim,29/03/2023,Minya,Corporate,37
+CUST-00692,Nour Khalil,16/06/2024,Qalyubia,,30
+CUST-00615,Ali Sabry,2024-02-13,Sharqia,Corporate,56
+CUST-00296,Rania Saad,17/02/2022,Minya,,35
+CUST-00482,Amr Fahmy,07/30/2022,aswan,Small Business,62
+CUST-00730,Youssef Younes,2022-12-22,Alexandria,Corporate,29
+CUST-00215,Mariam Farouk,2022-04-22,Dakahlia,Corporate,33
+CUST-00589,Aya Adel,2024-02-25,Dakahlia,Small Business,63
+CUST-00674,Mariam Fathy,06/03/2022,Cairo,Small Business,56
+CUST-00135,Habiba Saad,2024-02-05,Cairo,Consumer,40
+CUST-00209,Yasmin Aziz,2024-08-22,Aswan,Small Business,36
+CUST-00490,Mariam Gouda,05/03/2022,Cairo,Corporate,60
+CUST-00231,Adham Rashad,02/11/2024,Giza,Small Business,37
+CUST-00680,Mohamed Nabil,08/27/2024,Cairo,Small Business,56
+CUST-00349,Yasmin Khalil,08/28/2023,Cairo,Consumer,38
+CUST-00639,Amr Nabil,16/03/2024,  Gharbia  ,Corporate,23
+CUST-00721,Aya Ibrahim,07/22/2023,Minya,Small Business,38
+CUST-00133,Sherif Ibrahim,21/06/2023,Aswan,Consumer,51
+CUST-00308,Yasmin Rashad,01/04/2023,Beheira,Consumer,26
+CUST-00136,Adham Ali,03/01/2024,SHA,Small Business,26
+CUST-00144,Nesma Shawky,2023-01-12,Minya,Corporate,35
+CUST-00329,Khaled Ali,27-Feb-2024,Giza,Corporate,40
+CUST-00645,Khaled Nabil,2022-08-04,Monufia,Corporate,40
+CUST-00141,Sara Mahmoud,2024-02-11,Dakahlia,Small Business,40
+CUST-00464,Mohamed Farouk,24/08/2023,Gharbia,Consumer,25
+CUST-00268,Nada Khalil,2023-09-10,Cairo,Consumer,30
+CUST-00566,Nour Sabry,31/03/2024,GHA,,65
+CUST-00358,Youssef Saad,19-Aug-2022,Qalyubia,Consumer,47
+CUST-00739,Hassan Farouk,30-Apr-2023,Port Said,Consumer,44
+CUST-00027,Mona Mahmoud,2023-08-17,Giza,Consumer,23
+CUST-00725,Farida Farouk,03/08/2024,Cairo,Consumer,61
+CUST-00430,Mostafa Zaki,2022-03-18,Sharqia,Consumer,45
+CUST-00682,Hassan Gouda,2024-04-20,Beheira,Corporate,60
+CUST-00617,Sherif Kamal,01/23/2024,Qalyubia,Small Business,20
+CUST-00205,Omar Farouk,06/16/2023,Cairo,Small Business,60
+CUST-00792,Omar Sabry,10/23/2023,Cairo,Corporate,24
+CUST-00102,Tarek Sabry,17/01/2023,faiyum,,44
+CUST-00712,Farida Sabry,09/13/2024,Port Said,Consumer,56
+CUST-00173,Youssef Hassan,25/03/2022,Cairo,,54
+CUST-00665,Hassan Shawky,2024-08-19,Giza,Consumer,49
+CUST-00100,Amr Fahmy,02-Jan-2024,Cairo,Corporate,29
+CUST-00438,Rana Younes,02/20/2022,GHARBIA,Small Business,29
+CUST-00587,Yasmin Younes,30/07/2023,Cairo,Corporate,47
+CUST-00720,Ahmed Saad,12/09/2022,Giza,Small Business,61
+CUST-00755,Ibrahim Kamal,2023-02-11,Cairo,Consumer,48
+CUST-00579,Nada Farouk,2024-05-09,Suez,,21
+CUST-00569,Mariam Ibrahim,01/17/2023,Port Said,Consumer,25
+CUST-00435,Mona Nabil,20-Apr-2023,Giza,Consumer,23
+CUST-00288,Amr Ali,06/21/2023,Cairo,Consumer,57
+CUST-00139,Laila Mahmoud,10/28/2022,Cairo,Consumer,20
+CUST-00576,Mahmoud Saad,02-Nov-2023,Giza,Corporate,61
+CUST-00390,Ibrahim Farouk,2024-07-30,Alexandria,Corporate,46
+CUST-00577,Ali Fahmy,2023-06-16,Qalyubia,Corporate,57
+CUST-00254,Youssef Naguib,2023-09-22,Beheira,Consumer,33
+CUST-00301,Khaled Younes,2024-02-03,Aswan,Consumer,24
+CUST-00602,Mostafa Farouk,27-Feb-2023,Sharqia,,50
+CUST-00010,Nada Fahmy,10/04/2023,Monufia,Small Business,52
+CUST-00011,Youssef Khalil,2022-03-12,Giza,Corporate,36
+CUST-00767,Yasmin Hassan,2024-02-24,Alexandria,Small Business,56
+CUST-00573,Rania Gouda,26-Nov-2023,Alexandria,Corporate,42
+CUST-00119,Sara Mahmoud,19/10/2023,Alexandria,Small Business,53
+CUST-00357,Nesma Kamal,03/26/2022,Sharqia,,36
+CUST-00454,Ali Hassan,07/06/2024,Port Said,Small Business,21
+CUST-00426,Yasmin Ali,30/07/2022,Qalyubia,Consumer,44
+CUST-00050,Ahmed Sabry,2024-03-19,Beheira,Corporate,38
+CUST-00026,Mostafa Ali,14/07/2024,Dakahlia,Consumer,37
+CUST-00155,Habiba Zaki,2022-11-18,Dakahlia,Consumer,25
+CUST-00263,Yasmin Zaki,08-Jul-2022,  Beheira  ,Small Business,33
+CUST-00748,Mona Ibrahim,01/26/2023,Dakahlia,Small Business,58
+CUST-00307,Hassan Zaki,21/11/2022,Giza,Consumer,18
+CUST-00452,Farida Shawky,07/12/2023,Beheira,Small Business,54
+CUST-00145,Khaled Naguib,22-Mar-2022,Alexandria,Consumer,300
+CUST-00343,Mona Gouda,2023-03-16,Alexandria,Corporate,31
+CUST-00758,Ali Aziz,2024-01-26,Giza,Corporate,26
+CUST-00113,Nada Farouk,16-Jun-2022,Cairo,Corporate,57
+CUST-00753,Mona Naguib,2022-06-21,CAI,Consumer,26
+CUST-00366,Mariam Khalil,07/06/2023,Cairo,,36
+CUST-00168,Hassan Nabil,06/18/2022,Cairo,Corporate,32
+CUST-00564,Mahmoud Ali,15/07/2024,Giza,Consumer,47
+CUST-00147,Yasmin Rashad,10/09/2023,Monufia,,62
+CUST-00616,Hossam Fathy,2022-10-29,Alexandria,Corporate,22
+CUST-00402,Hassan Saad,03/27/2022,Giza,Corporate,31
+CUST-00596,Karim Rashad,14/04/2023,Dakahlia,Corporate,26
+CUST-00540,Salma Kamal,08-Mar-2024,CAIRO,Small Business,58
+CUST-00708,Ali Khalil,23-Jun-2022,Gharbia,Small Business,33
+CUST-00750,Rana Ibrahim,03/23/2022,Cairo,Consumer,38
+CUST-00600,Salma Younes,21/06/2024,Alexandria,Corporate,62
+CUST-00611,Youssef Sabry,13-Apr-2024,Alexandria,Corporate,61
+CUST-00370,Salma Aziz,19-Feb-2024,Suez,Small Business,49
+CUST-00290,Rana Rashad,02-Aug-2023,GIZ,Corporate,32
+CUST-00500,Dina Ali,01-Mar-2023,Cairo,Corporate,55
+CUST-00460,Hassan Gouda,2024-08-29,Cairo,Small Business,52
+CUST-00156,Mohamed Kamal,2023-05-27,Qalyubia,Corporate,25
+CUST-00744,Habiba Adel,2023-07-25,Minya,Small Business,40
+CUST-00327,Rania Gouda,2023-02-15,Qalyubia,Corporate,44
+CUST-00437,Ibrahim Fahmy,06/01/2022,cairo,Consumer,40
+CUST-00406,Omar Nabil,14/11/2023,Monufia,Corporate,29
+CUST-00463,Hossam Farouk,15-Dec-2022,Monufia,Small Business,21
+CUST-00595,Aya Ali,15-Feb-2024,Alexandria,Corporate,61
+CUST-00498,Salma Ibrahim,31/03/2022,Alexandria,Small Business,53
+CUST-00184,Salma Fathy,2024-02-21,Cairo,,47
+CUST-00631,Ahmed Ibrahim,08/04/2022,Gharbia,Consumer,61
+CUST-00276,Hassan Hassan,25-Sep-2022,Sharqia,Corporate,55
+CUST-00718,Rania Ali,2022-09-22,Cairo,Corporate,32
+CUST-00167,Sherif Farouk,2023-03-20,Qalyubia,Consumer,25
+CUST-00779,Laila Mahmoud,2022-12-05,CAI,Consumer,21
+CUST-00087,Laila Sabry,04/01/2022,Alexandria,Consumer,33
+CUST-00051,Mohamed Kamal,09/29/2022,Cairo,Corporate,44
+CUST-00218,Amr Farouk,06/01/2022,Aswan,Consumer,44
+CUST-00795,Farida Farouk,14-Sep-2022,Faiyum,Small Business,63
+CUST-00422,Yasmin Khalil,06-Sep-2022,Alexandria,Corporate,49
+CUST-00038,Nesma Ali,10-Apr-2022,Giza,Corporate,26
+CUST-00058,Nada Khalil,06/28/2023,Giza,Corporate,56
+CUST-00375,Farida Ibrahim,03/25/2024,Qalyubia,Consumer,45
+CUST-00507,Nesma Ali,22-Sep-2024,Ismailia,Consumer,37
+CUST-00189,Mostafa Saad,01/15/2024,Giza,Small Business,41
+CUST-00376,Ibrahim Shawky,02-Oct-2022,Giza,Small Business,39
+CUST-00037,Dina Ali,24-May-2022,Cairo,Consumer,37
+CUST-00548,Yasmin Kamal,03/08/2022,Suez,Small Business,36
+CUST-00667,Ibrahim Younes,07/18/2024,POR,Small Business,48
+CUST-00523,Sara Fathy,23/04/2023,GIZA,Corporate,57
+CUST-00333,Ali Rashad,19/01/2023,Alexandria,Corporate,55
+CUST-00499,Salma Saad,17/06/2023,Alexandria,Consumer,62
+CUST-00684,Mahmoud Aziz,2023-01-23,Alexandria,Consumer,19
+CUST-00606,Salma Ali,19-Feb-2024,Giza,,55
+CUST-00234,Yasmin Ali,17/10/2023,faiyum,Small Business,41
+CUST-00623,Tarek Naguib,11-Jul-2023,Qalyubia,Consumer,40
+CUST-00541,Sherif Fahmy,10/12/2023,CAI,Small Business,35
+CUST-00270,Ahmed Fathy,17-Aug-2024,Cairo,Corporate,25
+CUST-00567,Karim Ali,2024-05-21,Beheira,Consumer,18
+CUST-00066,Omar Nabil,09/07/2023,giza,,54
+CUST-00260,Mariam Mahmoud,07/25/2023,Minya,Corporate,29
+CUST-00178,Dina Shawky,2023-04-21,Cairo,Corporate,27
+CUST-00164,Yasmin Zaki,05-Jan-2024,Monufia,Corporate,44
+CUST-00008,Mahmoud Shawky,11/03/2024,Aswan,,57
+CUST-00785,Youssef Adel,18/06/2023,CAI,Small Business,58
+CUST-00344,Ibrahim Saad,02/10/2024,Gharbia,Consumer,54
+CUST-00690,Heba Aziz,2024-08-18,PORT SAID,Small Business,40
+CUST-00582,Ali Adel,10/21/2023,Giza,Consumer,23
+CUST-00072,Rana Ibrahim,2022-05-26,Monufia,Consumer,23
+CUST-00478,Mohamed Fahmy,09/25/2022,Minya,Consumer,39
+CUST-00411,Mahmoud Saad,31/12/2023,Aswan,Corporate,22
+CUST-00371,Hassan Gouda,10/10/2023,GIZ,Small Business,42
+CUST-00467,Heba Shawky,27-Oct-2023,Giza,Corporate,53
+CUST-00774,Laila Khalil,09-Apr-2023,Giza,Corporate,49
+CUST-00361,Ibrahim Naguib,15/04/2022,Monufia,Corporate,33
+CUST-00434,Laila Fahmy,02/21/2023,Cairo,Small Business,31
+CUST-00397,Ahmed Sabry,08/14/2024,GIZA,Small Business,54
+CUST-00393,Mariam Ibrahim,12-Sep-2022,Sharqia,Corporate,64
+CUST-00345,Amr Adel,2022-07-11,Giza,Consumer,47
+CUST-00317,Aya Khalil,2023-01-25,Port Said,Small Business,46
+CUST-00597,Nesma Hassan,28/06/2023,Monufia,Corporate,45
+CUST-00300,Aya Zaki,2024-02-13,Monufia,Corporate,64
+CUST-00419,Omar Kamal,08/17/2022,Port Said,Consumer,43
+CUST-00112,Youssef Fahmy,16/06/2024,BEH,Consumer,56
+CUST-00556,Sara Shawky,20/12/2023,Cairo,Corporate,61
+CUST-00570,Rana Zaki,2024-09-12,Alexandria,Small Business,62
+CUST-00310,Dina Ali,2022-01-27,Cairo,Corporate,23
+CUST-00227,Sherif Hassan,25/01/2024,Giza,,54
+CUST-00385,Ahmed Hassan,2023-12-14,Giza,Consumer,45
+CUST-00196,Salma Kamal,07-Feb-2023,Luxor,Corporate,37
+CUST-00399,Mohamed Gouda,11-Mar-2022,Cairo,,20
+CUST-00421,Khaled Adel,13-Apr-2023,Cairo,Consumer,36
+CUST-00138,Laila Shawky,10/09/2023,Cairo,,300
+CUST-00605,Farida Farouk,12/29/2023,Dakahlia,Consumer,50
+CUST-00483,Sara Nabil,2022-11-01,Giza,Consumer,43
+CUST-00800,Sherif Hassan,27/09/2023,Ismailia,Corporate,33
+CUST-00797,Sherif Adel,2022-12-23,Giza,Small Business,35
+CUST-00604,Ibrahim Fathy,08/03/2022,Dakahlia,Small Business,61
+CUST-00383,Heba Ibrahim,22-Dec-2023,  Cairo  ,Consumer,48
+CUST-00013,Amr Rashad,2022-06-20,Gharbia,Consumer,20
+CUST-00647,Tarek Kamal,15/08/2022,Dakahlia,,30
+CUST-00738,Mariam Aziz,23/07/2023,Alexandria,Small Business,30
+CUST-00207,Aya Adel,29/12/2022,Gharbia,Corporate,61
+CUST-00104,Mahmoud Fahmy,04/07/2022,Sharqia,Small Business,36
+CUST-00568,Mostafa Kamal,2022-12-03,Giza,,57
+CUST-00223,Sherif Nabil,16-Jun-2024,Cairo,Small Business,54
+CUST-00154,Habiba Sabry,31-Mar-2023,Beheira,Corporate,26
+CUST-00181,Laila Ali,2022-10-01,Alexandria,Consumer,24
+CUST-00514,Hossam Saad,2023-01-13,Suez,Corporate,43
+CUST-00752,Mariam Rashad,03/10/2024,Ismailia,Small Business,65
+CUST-00713,Hossam Rashad,10-Aug-2024,Alexandria,Consumer,34
+CUST-00142,Omar Fahmy,10/07/2022,Cairo,Small Business,45
+CUST-00359,Nesma Adel,08-Jun-2023,Cairo,Consumer,35
+CUST-00211,Mariam Nabil,2022-05-05,Sharqia,Corporate,42
+CUST-00783,Laila Ali,18-Jun-2023,Gharbia,Consumer,48
+CUST-00143,Rana Rashad,07/05/2024,Minya,Small Business,29
+CUST-00003,Adham Gouda,28-Jan-2023,Giza,Small Business,20
+CUST-00005,Hassan Shawky,14/09/2024,Cairo,Corporate,55
+CUST-00609,Hossam Saad,08/02/2024,Beheira,Small Business,61
+CUST-00282,Youssef Ibrahim,08/25/2024,Port Said,Consumer,18
+CUST-00203,Karim Fathy,2022-01-20,ALE,Small Business,27
+CUST-00303,Rana Fahmy,31-Jan-2022,Dakahlia,Small Business,49
+CUST-00612,Ali Adel,03-Feb-2023,Giza,Corporate,36
+CUST-00379,Karim Kamal,28-Mar-2023,Alexandria,Small Business,30
+CUST-00416,Youssef Adel,2024-04-02,Faiyum,Corporate,59
+CUST-00515,Karim Hassan,2022-09-05,Giza,Corporate,46
+CUST-00439,Mohamed Zaki,25/05/2024,Alexandria,Corporate,53
+CUST-00232,Ahmed Saad,2023-11-01,Giza,Consumer,21
+CUST-00238,Mona Younes,22-Dec-2023,Giza,Corporate,25
+CUST-00479,Tarek Zaki,2022-06-14,Monufia,Corporate,23
+CUST-00172,Tarek Khalil,2024-01-08,Faiyum,Small Business,54
+CUST-00274,Amr Shawky,2024-02-19,SUE,,41
+CUST-00387,Amr Ali,17-Nov-2022,Giza,Small Business,26
+CUST-00195,Laila Farouk,09/13/2023,FAIYUM,Consumer,38
+CUST-00575,Rania Shawky,26/04/2022,Faiyum,Small Business,20
+CUST-00103,Aya Khalil,23/02/2022,Beheira,Corporate,39
+CUST-00508,Mona Fahmy,2022-10-03,Monufia,Corporate,59
+CUST-00210,Ibrahim Shawky,11/21/2022,Alexandria,,64
+CUST-00163,Laila Adel,2022-05-13,Dakahlia,Consumer,22
+CUST-00756,Omar Hassan,2024-02-29,Alexandria,Consumer,24
+CUST-00408,Nesma Sabry,06/20/2023,Qalyubia,Corporate,34
+CUST-00088,Heba Gouda,02/15/2023,Qalyubia,Small Business,37
+CUST-00770,Nada Zaki,2022-08-14,Giza,Small Business,58
+CUST-00191,Nour Ibrahim,31/01/2023,Qalyubia,Corporate,35
+CUST-00367,Nour Gouda,2022-10-01,Minya,Corporate,61
+CUST-00179,Salma Fahmy,01/22/2024,Luxor,Small Business,43
+CUST-00624,Ali Fathy,11/11/2023,Giza,Small Business,36
+CUST-00045,Khaled Fathy,2023-10-20,Dakahlia,Consumer,21
+CUST-00562,Rania Fahmy,08/29/2022,Cairo,Corporate,23
+CUST-00465,Habiba Ibrahim,01/18/2023,  Gharbia  ,Corporate,43
+CUST-00768,Ali Hassan,16-Jul-2023,Giza,Small Business,53
+CUST-00384,Mahmoud Farouk,31-Aug-2023,Giza,Corporate,46
+CUST-00233,Karim Rashad,2022-11-11,Cairo,Corporate,50
+CUST-00398,Dina Sabry,2023-07-14,Gharbia,Small Business,22
+CUST-00735,Habiba Kamal,26-May-2023,Alexandria,Small Business,62
+CUST-00368,Amr Farouk,09/12/2024,Beheira,Small Business,21
+CUST-00494,Rana Mahmoud,30/05/2023,SHARQIA,Corporate,54
+CUST-00468,Farida Aziz,11/13/2023,Sharqia,Consumer,42
+CUST-00217,Ali Mahmoud,04/13/2022,Alexandria,Corporate,48
+CUST-00194,Youssef Mahmoud,09-Feb-2022,Cairo,Small Business,48
+CUST-00558,Mariam Khalil,09/13/2023,Gharbia,Small Business,24
+CUST-00528,Rana Fahmy,11/29/2023,Cairo,Consumer,59
+CUST-00679,Omar Kamal,2022-09-22,Minya,Corporate,43
+CUST-00545,Habiba Hassan,02-Jul-2024,Giza,,30
+CUST-00044,Omar Zaki,10/10/2022,Cairo,Consumer,47
+CUST-00519,Dina Younes,21-Jan-2022,Ismailia,Corporate,18
+CUST-00520,Rania Farouk,2023-10-25,Cairo,Consumer,32
+CUST-00632,Heba Ali,2022-07-30,Qalyubia,Corporate,65
+CUST-00229,Salma Ibrahim,2023-02-15,Gharbia,Consumer,26
+CUST-00503,Rania Mahmoud,26/06/2022,Giza,Consumer,57
+CUST-00006,Aya Ali,06/14/2024,Suez,Consumer,51
+CUST-00262,Nada Younes,23-Nov-2022,Gharbia,Small Business,27
+CUST-00372,Mona Ibrahim,11/10/2023,PORT SAID,Consumer,43
+CUST-00789,Youssef Gouda,13-Mar-2024,Gharbia,Corporate,56
+CUST-00650,Amr Fathy,01/14/2024,Sharqia,Small Business,40
+CUST-00553,Youssef Zaki,06/16/2024,Dakahlia,Corporate,57
+CUST-00796,Mona Adel,29-Oct-2022,Qalyubia,Small Business,30
+CUST-00319,Mostafa Nabil,25/11/2022,Sharqia,Corporate,30
+CUST-00118,Dina Kamal,16/04/2024,CAIRO,Corporate,26
+CUST-00727,Rania Sabry,28-Sep-2023,Giza,Corporate,35
+CUST-00703,Hassan Shawky,06/08/2024,Sharqia,Consumer,22
+CUST-00313,Mostafa Saad,05-Nov-2022,Giza,Consumer,22
+CUST-00743,Rania Ali,06-Apr-2023,Monufia,Small Business,41
+CUST-00076,Khaled Saad,30/03/2023,Gharbia,Small Business,56
+CUST-00174,Sara Fathy,2024-02-25,Sharqia,Corporate,58
+CUST-00671,Sara Zaki,23-Sep-2024,FAIYUM,Corporate,43
+CUST-00052,Karim Ibrahim,03-May-2023,Alexandria,Small Business,50
+CUST-00496,Ibrahim Fathy,10/05/2022,Cairo,Consumer,61
+CUST-00510,Nesma Younes,07-Jun-2024,Giza,Consumer,50
+CUST-00320,Rania Fahmy,2022-07-01,Aswan,Small Business,36
+CUST-00314,Tarek Naguib,10-Oct-2022,Alexandria,Small Business,22
+CUST-00236,Habiba Naguib,12/20/2023,Qalyubia,Small Business,52
+CUST-00404,Mahmoud Nabil,2023-12-17,Alexandria,Consumer,21
+CUST-00599,Sherif Farouk,17-Apr-2022,Alexandria,Corporate,56
+CUST-00733,Salma Sabry,2023-09-20,Ismailia,Consumer,53
+CUST-00492,Ali Adel,03/04/2022,Suez,Corporate,44
+CUST-00388,Nada Farouk,2023-10-19,Luxor,Consumer,22
+CUST-00094,Salma Fahmy,04-Jun-2022,Alexandria,Small Business,46
+CUST-00702,Omar Kamal,03-Feb-2023,Aswan,Consumer,23
+CUST-00775,Hossam Fahmy,2022-01-20,Cairo,Corporate,19
+CUST-00443,Sara Ibrahim,2022-01-23,Luxor,Consumer,59
+CUST-00516,Sherif Shawky,24-Aug-2023,Sharqia,Small Business,28
+CUST-00637,Nada Ali,07/02/2023,Cairo,Corporate,57
+CUST-00149,Heba Saad,2023-10-17,luxor,Consumer,22
+CUST-00563,Karim Gouda,17/11/2023,Qalyubia,Consumer,50
+CUST-00250,Sherif Adel,02/07/2023,Qalyubia,Corporate,32
+CUST-00341,Heba Rashad,08/26/2022,Port Said,,29
+CUST-00481,Heba Kamal,2023-09-14,Faiyum,Consumer,21
+CUST-00201,Ali Mahmoud,08/21/2023,Alexandria,Corporate,58
+CUST-00417,Dina Aziz,26/11/2022,Giza,Corporate,38
+CUST-00092,Hassan Ibrahim,2022-07-01,Minya,Corporate,49
+CUST-00221,Ali Adel,27/01/2024,Monufia,Consumer,29
+CUST-00029,Habiba Younes,29/05/2023,Faiyum,Consumer,34
+CUST-00472,Mahmoud Aziz,22-Dec-2022,Luxor,Consumer,58
+CUST-00073,Ibrahim Zaki,2023-03-06,Alexandria,Consumer,41
+CUST-00533,Nour Ali,28-Apr-2023,Cairo,,64
+CUST-00786,Yasmin Fathy,01/05/2023,Faiyum,Corporate,31
+CUST-00281,Nesma Kamal,07/27/2024,Faiyum,Corporate,21
+CUST-00090,Karim Younes,06/07/2023,Cairo,Small Business,40
+CUST-00561,Dina Nabil,14-Jun-2022,Cairo,Small Business,31
+CUST-00620,Hassan Fahmy,09/04/2023,Cairo,Corporate,57
+CUST-00183,Adham Kamal,13-Apr-2024,Giza,Corporate,64
+CUST-00176,Yasmin Shawky,08/09/2022,port said,Corporate,43
+CUST-00336,Yasmin Fahmy,12-Apr-2023,Beheira,,48
+CUST-00525,Nour Nabil,2023-12-02,Cairo,Consumer,39
+CUST-00696,Heba Gouda,10-Jan-2023,Dakahlia,Corporate,43
+CUST-00271,Rania Aziz,14-Dec-2023,Sharqia,Consumer,43
+CUST-00465,Habiba Ibrahim,18-Jan-2023,  Gharbia  ,Corporate,43
+CUST-00736,Habiba Sabry,24/05/2024,ALE,Small Business,29
+CUST-00110,Sherif Fathy,16-Dec-2022,Minya,,30
+CUST-00598,Rania Younes,03/10/2024,Minya,Consumer,62
+CUST-00603,Yasmin Adel,2024-05-31,Giza,Corporate,53
+CUST-00495,Hassan Ali,08/30/2024,Beheira,Consumer,28
+CUST-00323,Sherif Adel,28-Jan-2022,Minya,Small Business,63
+CUST-00081,Sara Nabil,12/02/2022,Cairo,Small Business,65
+CUST-00614,Omar Hassan,02/01/2024,Giza,Corporate,46
+CUST-00584,Mona Fahmy,02/05/2022,Luxor,Corporate,59
+CUST-00705,Nada Zaki,09/21/2023,Dakahlia,Small Business,63
+CUST-00334,Hassan Sabry,2022-01-26,Alexandria,Small Business,44
+CUST-00457,Omar Aziz,08/13/2023,Suez,Small Business,40
+CUST-00064,Habiba Farouk,07/24/2023,Cairo,Corporate,53
+CUST-00062,Salma Saad,19-Jan-2023,Minya,Corporate,48
+CUST-00373,Mariam Sabry,11/04/2023,Minya,Small Business,55
+CUST-00279,Sara Shawky,09/16/2024,Monufia,Corporate,49
+CUST-00663,Habiba Younes,11/01/2022,Gharbia,Corporate,61
+CUST-00226,Karim Fahmy,2022-06-16,Monufia,Corporate,34
+CUST-00280,Laila Kamal,01/21/2024,Port Said,,26
+CUST-00749,Hassan Kamal,18-Oct-2023,Port Said,Small Business,44
+CUST-00338,Salma Ibrahim,04-Nov-2022,Cairo,Corporate,25
+CUST-00228,Hossam Kamal,2023-09-18,Ismailia,Small Business,45
+CUST-00187,Nour Shawky,04-Sep-2023,Faiyum,Corporate,61
+CUST-00009,Rana Ibrahim,2024-05-22,GIZA,Corporate,52
+CUST-00086,Karim Zaki,22-Jan-2022,ASW,Consumer,57
+CUST-00043,Amr Sabry,12/07/2023,Faiyum,Corporate,40
+CUST-00640,Nour Rashad,26/01/2023,Alexandria,Corporate,19
+CUST-00613,Omar Zaki,02/01/2023,Alexandria,Corporate,38
+CUST-00670,Nada Sabry,2023-08-25,Dakahlia,Consumer,51
+CUST-00097,Mahmoud Ibrahim,2023-09-22,Sharqia,Small Business,47
+CUST-00342,Sherif Naguib,10-Feb-2023,cairo,Corporate,30
+CUST-00456,Amr Aziz,2023-11-04,Giza,Corporate,65
+CUST-00157,Sara Saad,22-Dec-2023,Alexandria,Corporate,36
+CUST-00034,Sara Gouda,26/01/2023,Suez,Small Business,24
+CUST-00537,Mahmoud Shawky,29/06/2024,Cairo,Consumer,61
+CUST-00122,Ali Rashad,06/24/2024,Giza,Consumer,44
+CUST-00726,Nesma Khalil,07-Jan-2022,BEH,Corporate,20
+CUST-00212,Rana Sabry,09/04/2024,Beheira,Consumer,36
+CUST-00294,Aya Gouda,09/27/2024,Ismailia,Consumer,51
+CUST-00513,Adham Mahmoud,2023-04-13,Cairo,Small Business,63
+CUST-00652,Salma Shawky,07/04/2023,Giza,Corporate,37
+CUST-00698,Habiba Adel,23/07/2023,Alexandria,Small Business,54
+CUST-00237,Ibrahim Aziz,2023-11-28,Beheira,,51
+CUST-00165,Dina Gouda,17/03/2022,Cairo,Small Business,59
+CUST-00700,Ali Rashad,03/12/2024,Gharbia,Consumer,24
+CUST-00394,Nour Hassan,18/05/2024,Suez,Small Business,31
+CUST-00517,Sara Ibrahim,2022-10-19,Cairo,Consumer,28
+CUST-00283,Dina Farouk,12/05/2024,Dakahlia,Consumer,63
+CUST-00365,Ibrahim Fathy,2024-04-04,Cairo,Small Business,52
+CUST-00235,Ali Aziz,2024-09-07,Cairo,Consumer,47
+CUST-00311,Salma Zaki,13-Jan-2022,Giza,Small Business,23
+CUST-00180,Mostafa Sabry,2023-06-12,Sharqia,Small Business,33
+CUST-00400,Omar Zaki,2023-06-03,Giza,Corporate,50
+CUST-00657,Amr Kamal,2023-10-24,Sharqia,Small Business,26
+CUST-00309,Khaled Kamal,03/18/2023,Alexandria,Corporate,50
+CUST-00070,Mohamed Kamal,07/10/2022,Gharbia,Small Business,39
+CUST-00272,Adham Adel,11/26/2022,Beheira,Small Business,47
+CUST-00453,Salma Zaki,04/10/2022,Cairo,Small Business,56
+CUST-00764,Yasmin Sabry,27/02/2023,Giza,Small Business,18
+CUST-00024,Nesma Nabil,2024-03-05,  Port Said  ,Corporate,40
+CUST-00542,Ibrahim Kamal,08/14/2023,Beheira,,23
+CUST-00293,Ahmed Kamal,2022-03-26,Qalyubia,Small Business,59
+CUST-00771,Adham Younes,22/02/2024,Port Said,Corporate,62
+CUST-00760,Farida Fahmy,06/03/2024,Alexandria,Corporate,35
+CUST-00352,Nada Naguib,10-Jul-2022,Alexandria,Corporate,62
+CUST-00059,Heba Ali,23/03/2024,Gharbia,Corporate,59
+CUST-00707,Nour Fathy,2022-02-04,Beheira,Corporate,51
+CUST-00798,Tarek Ibrahim,06/28/2023,Cairo,Small Business,34
+CUST-00080,Omar Hassan,29/07/2022,Giza,Consumer,26
+CUST-00266,Sara Fathy,2022-12-05,Dakahlia,Small Business,41
+CUST-00322,Rana Sabry,27-Apr-2022,Minya,,55
+CUST-00610,Sara Farouk,09/05/2024,Cairo,Small Business,31
+CUST-00634,Aya Mahmoud,2022-03-31,Cairo,Consumer,34
+CUST-00381,Habiba Saad,03/26/2022,Giza,Corporate,28
+CUST-00093,Laila Gouda,18-Feb-2024,Sharqia,Corporate,54
+CUST-00539,Hossam Fahmy,24/02/2023,LUXOR,Small Business,27
+CUST-00608,Amr Hassan,26-Jan-2023,Cairo,Corporate,21
+CUST-00681,Rania Shawky,24/06/2022,Cairo,Small Business,56
+CUST-00148,Mona Sabry,04/03/2023,Cairo,Small Business,57
+CUST-00252,Heba Adel,24-Jan-2023,Suez,Consumer,47
+CUST-00502,Farida Naguib,2022-09-28,Alexandria,Small Business,54
+CUST-00694,Nada Fathy,06-Dec-2023,Port Said,Small Business,41
+CUST-00213,Youssef Nabil,2024-09-05,Monufia,Small Business,46
+CUST-00441,Ahmed Mahmoud,30-Apr-2024,Beheira,Consumer,26
+CUST-00391,Ibrahim Ibrahim,2024-07-07,Cairo,Consumer,55
+CUST-00693,Ahmed Hassan,2023-08-15,QALYUBIA,Corporate,18
+CUST-00754,Adham Saad,21/08/2024,Monufia,Corporate,23
+CUST-00331,Rana Fahmy,09/15/2024,Port Said,Consumer,18
+CUST-00619,Sara Hassan,05/12/2022,Alexandria,Consumer,20
+CUST-00277,Dina Nabil,06/06/2022,Cairo,Consumer,42
+CUST-00787,Karim Aziz,10/11/2023,Alexandria,Consumer,28
+CUST-00625,Ibrahim Khalil,06/28/2023,Alexandria,Corporate,59
+CUST-00747,Nour Sabry,2022-11-29,Gharbia,Small Business,65
+CUST-00669,Mariam Saad,16-Aug-2023,Qalyubia,Consumer,42
+CUST-00449,Nour Shawky,26-Feb-2023,Faiyum,Small Business,-5
+CUST-00670,Nada Sabry,2023-08-25,Dakahlia,Consumer,51
+CUST-00594,Rana Fathy,2023-04-14,Suez,,63
+CUST-00304,Ali Sabry,21/07/2023,Minya,Small Business,29
+CUST-00488,Nada Kamal,2023-01-15,Faiyum,Small Business,29
+CUST-00583,Laila Rashad,31-Mar-2024,Sharqia,Consumer,49
+CUST-00729,Ali Gouda,05/12/2022,Cairo,Small Business,48
+CUST-00020,Heba Saad,04/13/2023,suez,Consumer,42
+CUST-00325,Dina Shawky,23/05/2022,Dakahlia,Consumer,34
+CUST-00261,Heba Adel,23-May-2023,Cairo,Small Business,59
+CUST-00676,Rania Shawky,06/05/2023,CAI,Consumer,59
+CUST-00410,Karim Hassan,2022-12-10,Port Said,Small Business,51
+CUST-00401,Dina Naguib,2023-12-20,Alexandria,Corporate,52
+CUST-00578,Amr Naguib,09/11/2023,Monufia,Small Business,40
+CUST-00055,Rana Naguib,04/12/2023,Cairo,Corporate,46
+CUST-00710,Rana Zaki,08/24/2023,Cairo,Consumer,65
+CUST-00151,Mohamed Farouk,05/19/2024,Sharqia,Small Business,20
+CUST-00549,Laila Younes,2023-09-03,Qalyubia,Small Business,61
+CUST-00701,Ibrahim Younes,15/02/2023,Beheira,Corporate,57
+CUST-00554,Omar Khalil,19-Feb-2022,Gharbia,Corporate,19
+CUST-00107,Rana Farouk,02-Sep-2023,Gharbia,Consumer,37
+CUST-00572,Mostafa Mahmoud,08/23/2024,Suez,Consumer,44
+CUST-00025,Ali Fathy,2023-09-28,Giza,Corporate,60
+CUST-00534,Sherif Fahmy,2023-11-02,Cairo,Small Business,32
+CUST-00655,Heba Saad,2024-05-10,Giza,Corporate,64
+CUST-00083,Farida Ibrahim,02/11/2023,Ismailia,Consumer,45
+CUST-00672,Farida Sabry,14-May-2023,Port Said,,18
+CUST-00688,Mostafa Khalil,2023-07-07,Suez,Corporate,59
+CUST-00380,Mostafa Nabil,12/06/2022,Ismailia,Small Business,23
+CUST-00077,Mona Naguib,07/10/2022,Cairo,Corporate,25
+CUST-00389,Ahmed Khalil,10/28/2023,Cairo,Small Business,64
+CUST-00407,Karim Hassan,2023-12-26,Cairo,Consumer,28
+CUST-00292,Khaled Zaki,24-Jan-2023,Giza,Small Business,21
+CUST-00111,Ali Farouk,2022-06-08,Cairo,Consumer,50
+CUST-00629,Habiba Younes,04/02/2024,Qalyubia,Small Business,20
+CUST-00247,Sherif Farouk,2024-02-24,Dakahlia,Corporate,59
+CUST-00146,Nour Fahmy,2022-04-16,Cairo,Corporate,36
+CUST-00129,Omar Aziz,03/06/2023,Dakahlia,Corporate,47
+CUST-00778,Aya Naguib,16-Nov-2022,Beheira,Small Business,41
+CUST-00757,Sara Khalil,2022-06-09,CAI,Small Business,37
+CUST-00487,Rana Shawky,16/05/2023,Faiyum,Small Business,23
+CUST-00789,Youssef Gouda,2024-03-13,Gharbia,Corporate,56
+CUST-00091,Hassan Aziz,16/04/2022,Cairo,Consumer,29
+CUST-00206,Rania Younes,2023-01-21,Giza,Consumer,47
+CUST-00782,Nada Rashad,11-Sep-2022,Monufia,Consumer,30
+CUST-00171,Khaled Younes,2023-10-19,Cairo,Corporate,27
+CUST-00057,Mariam Khalil,11/10/2023,sharqia,Corporate,38
+CUST-00405,Adham Ibrahim,04/08/2024,Alexandria,Small Business,57
+CUST-00242,Omar Rashad,05/16/2022,Qalyubia,Small Business,54
+CUST-00347,Salma Khalil,02/02/2023,Dakahlia,Corporate,25
+CUST-00098,Youssef Rashad,07/19/2024,Port Said,Corporate,30
+CUST-00117,Habiba Gouda,28/03/2023,Alexandria,Small Business,42
+CUST-00202,Nada Farouk,04/21/2024,Gharbia,Consumer,54
+CUST-00709,Ahmed Kamal,30-Mar-2022,  Luxor  ,Small Business,40
+CUST-00480,Aya Khalil,21/09/2023,Faiyum,Corporate,19
+CUST-00324,Ibrahim Rashad,27/03/2024,Giza,Corporate,22
+CUST-00194,Youssef Mahmoud,02/09/2022,Cairo,Small Business,48
+CUST-00444,Mona Farouk,04/05/2022,FAIYUM,Small Business,25
+CUST-00455,Rania Younes,2023-01-02,Beheira,Consumer,28
+CUST-00529,Nesma Nabil,23/09/2022,FAI,Small Business,42
+CUST-00638,Mahmoud Gouda,16-Feb-2022,Gharbia,Consumer,40
+CUST-00551,Rana Hassan,2022-08-22,Giza,Consumer,31
+CUST-00649,Laila Adel,16-Mar-2022,Giza,Consumer,34
+CUST-00719,Ali Fahmy,2023-02-27,  Minya  ,Corporate,52
+CUST-00792,Omar Sabry,23-Oct-2023,Cairo,Corporate,24
+CUST-00297,Youssef Kamal,08/09/2024,Ismailia,Consumer,31
+CUST-00715,Nour Fahmy,08/27/2024,Cairo,Corporate,34
+CUST-00654,Tarek Hassan,2022-11-17,Giza,Consumer,63
+CUST-00396,Nada Ali,2022-09-04,Qalyubia,Corporate,22
+CUST-00427,Nesma Mahmoud,22-Sep-2024,Luxor,Corporate,35
+CUST-00685,Hossam Younes,05/30/2024,Faiyum,Corporate,44
+CUST-00560,Hossam Saad,01/05/2024,Qalyubia,Consumer,40
+CUST-00526,Mariam Fahmy,01/06/2024,Giza,Corporate,63
+CUST-00773,Hossam Ibrahim,07/06/2022,  Cairo  ,Consumer,58
+CUST-00015,Adham Younes,2023-02-26,Sharqia,Consumer,28
+CUST-00253,Farida Farouk,10-Oct-2022,Cairo,Corporate,25
+CUST-00239,Omar Adel,13-Jul-2024,Qalyubia,Corporate,52
+CUST-00121,Mariam Rashad,07/16/2024,QALYUBIA,Small Business,23
+CUST-00286,Ahmed Hassan,27-Jun-2023,Monufia,Corporate,36
+CUST-00555,Omar Ali,03/03/2023,Alexandria,Consumer,53
+CUST-00197,Aya Younes,04/28/2024,Qalyubia,Small Business,63
+CUST-00346,Karim Saad,2023-11-18,Ismailia,Corporate,58
+CUST-00546,Mohamed Hassan,10/04/2023,Monufia,Consumer,62
+CUST-00251,Ahmed Hassan,02-Nov-2022,Alexandria,,52
+CUST-00737,Mostafa Gouda,12/04/2023,Giza,Consumer,64
+CUST-00413,Tarek Sabry,11-Jun-2022,Giza,Consumer,54
+CUST-00486,Tarek Nabil,2024-09-27,Cairo,Consumer,37
+CUST-00431,Mostafa Aziz,2022-10-26,GIZ,Small Business,43
+CUST-00628,Nada Saad,2023-07-08,Monufia,Consumer,51
+CUST-00291,Yasmin Ibrahim,01-Nov-2023,Luxor,Corporate,20
+CUST-00017,Adham Shawky,23-Jul-2024,  Sharqia  ,Consumer,47
+CUST-00159,Sherif Rashad,2022-03-31,Port Said,Small Business,60
+CUST-00244,Mohamed Zaki,09/18/2022,Port Said,Corporate,31
+CUST-00067,Ibrahim Farouk,11/04/2023,Alexandria,Consumer,40
+CUST-00360,Habiba Adel,2024-04-22,Beheira,Corporate,46
+CUST-00781,Sara Zaki,28-Apr-2024,Cairo,Corporate,33
+CUST-00505,Adham Mahmoud,03-Feb-2024,Alexandria,Small Business,41
+CUST-00473,Khaled Fahmy,03-Apr-2023,Cairo,Consumer,33
+CUST-00578,Amr Naguib,11/09/2023,Monufia,Small Business,40
+CUST-00522,Mariam Naguib,07/05/2024,GIZA,,47
+CUST-00699,Farida Zaki,2024-01-24,Cairo,Corporate,25
+CUST-00531,Ali Adel,16-Oct-2023,Beheira,Corporate,40
+CUST-00409,Tarek Sabry,10-May-2022,MONUFIA,Small Business,64
+CUST-00697,Ibrahim Naguib,20-Jul-2023,Beheira,Small Business,29
+CUST-00433,Mostafa Gouda,2022-04-22,Cairo,Consumer,46
+CUST-00432,Salma Fahmy,09/04/2023,Giza,Consumer,30
+CUST-00485,Nour Khalil,07-May-2023,Cairo,Consumer,31
+CUST-00152,Mostafa Ibrahim,30/08/2022,Beheira,Small Business,41
+CUST-00328,Youssef Sabry,20-Dec-2023,Faiyum,Corporate,56
+CUST-00257,Ibrahim Mahmoud,24-May-2022,Qalyubia,Small Business,32
+CUST-00312,Adham Gouda,18/06/2023,Cairo,Small Business,28
+CUST-00305,Nada Ibrahim,01-Mar-2024,Dakahlia,,63
+CUST-00414,Karim Aziz,2024-01-29,Qalyubia,Consumer,18
+CUST-00134,Mohamed Zaki,06/13/2024,Alexandria,Corporate,42
+CUST-00032,Rana Adel,2023-01-10,Cairo,Small Business,18
+CUST-00459,Farida Gouda,01/29/2022,Gharbia,Small Business,54
+CUST-00162,Adham Shawky,27/01/2022,Giza,Corporate,41
+CUST-00340,Adham Younes,28-Jun-2022,Sharqia,Small Business,53
+CUST-00287,Mohamed Younes,04/12/2024,Gharbia,Small Business,29
+CUST-00249,Khaled Adel,2022-05-17,DAK,Small Business,25
+CUST-00784,Nada Nabil,08/16/2024,Giza,Corporate,64
+CUST-00580,Ahmed Kamal,2023-06-02,Suez,Small Business,28
+CUST-00666,Ali Ibrahim,2022-09-28,Giza,Consumer,60
+CUST-00002,Nada Rashad,13/08/2024,Giza,Consumer,62
+CUST-00208,Sara Khalil,2023-05-11,Cairo,Consumer,35
+CUST-00630,Nour Fathy,2022-11-25,Qalyubia,Consumer,28
+CUST-00148,Mona Sabry,2023-04-03,Cairo,Small Business,57
+CUST-00686,Hassan Khalil,2022-04-09,Cairo,Corporate,56
+CUST-00265,Dina Naguib,25-Jul-2023,Qalyubia,Small Business,33
+CUST-00275,Salma Naguib,02/16/2022,Sharqia,Consumer,65
+CUST-00071,Farida Hassan,05/07/2022,Ismailia,Corporate,60
+CUST-00641,Rania Kamal,2023-07-01,Cairo,Corporate,43
+CUST-00445,Youssef Rashad,21/02/2022,Cairo,Corporate,45
+CUST-00675,Karim Aziz,03/01/2023,Port Said,Corporate,25
+CUST-00099,Salma Khalil,05/03/2023,Qalyubia,Consumer,46
+CUST-00772,Mariam Nabil,2023-10-27,Monufia,Small Business,44
+CUST-00022,Nour Nabil,23/01/2022,Aswan,Corporate,43
+CUST-00415,Adham Mahmoud,04/29/2023,Giza,Consumer,29
+CUST-00518,Ibrahim Aziz,25/10/2023,Giza,Consumer,35
+CUST-00150,Rana Sabry,06/10/2023,Port Said,Corporate,28
+CUST-00648,Karim Kamal,11/19/2023,Port Said,Consumer,53
+CUST-00355,Nesma Farouk,07/19/2022,Port Said,Corporate,50
+CUST-00761,Mona Farouk,2024-09-19,MIN,Corporate,29
+CUST-00053,Amr Rashad,31/05/2023,Giza,Corporate,20
+CUST-00199,Karim Naguib,21/08/2023,Giza,Corporate,62
+CUST-00123,Omar Zaki,30/05/2023,Giza,Small Business,23
+CUST-00204,Dina Fathy,25/02/2023,Qalyubia,Corporate,48
+CUST-00068,Habiba Ali,02/20/2024,Giza,Consumer,45
+CUST-00224,Amr Fahmy,2022-10-19,Alexandria,Corporate,52
+CUST-00128,Heba Ali,2024-03-05,Giza,Small Business,25
+CUST-00656,Aya Shawky,2023-04-19,Alexandria,Small Business,49
+CUST-00140,Salma Nabil,2023-06-12,Alexandria,Corporate,48
+CUST-00418,Mariam Ibrahim,09-Aug-2023,Giza,Corporate,61
+CUST-00219,Rania Shawky,10/29/2023,Cairo,Small Business,38
+CUST-00547,Farida Nabil,13-May-2022,Cairo,Corporate,55
+CUST-00158,Nesma Fathy,06-May-2022,Cairo,Consumer,46
+CUST-00095,Yasmin Saad,29-Aug-2023,Cairo,Corporate,22
+CUST-00256,Omar Aziz,01/29/2024,  Cairo  ,Small Business,32
+CUST-00788,Mariam Gouda,03-May-2022,Alexandria,Consumer,18
+CUST-00644,Youssef Hassan,2023-08-10,  Sharqia  ,Corporate,53
+CUST-00040,Dina Gouda,31/01/2024,Monufia,Small Business,59
+CUST-00131,Mohamed Younes,12-Aug-2023,Giza,Consumer,36
+CUST-00686,Hassan Khalil,09-Apr-2022,Cairo,Corporate,56
+CUST-00190,Youssef Zaki,22/02/2022,Sharqia,Consumer,41
+CUST-00590,Habiba Rashad,2022-04-27,Cairo,Corporate,32
+CUST-00403,Hassan Adel,12/01/2022,Alexandria,Corporate,59
+CUST-00039,Nada Rashad,15-Jan-2023,Gharbia,Corporate,62
+CUST-00243,Omar Adel,2023-04-19,  Gharbia  ,Small Business,64
+CUST-00354,Salma Rashad,2023-09-27,Cairo,Small Business,18
+CUST-00621,Yasmin Shawky,03/19/2024,Sharqia,Small Business,22
+CUST-00651,Mostafa Aziz,13/04/2022,Giza,Consumer,30
+CUST-00535,Yasmin Naguib,03/18/2024,Faiyum,Small Business,34
+CUST-00504,Rana Mahmoud,10-Feb-2023,Faiyum,Small Business,62
+CUST-00160,Farida Ibrahim,2023-07-18,Qalyubia,Small Business,28
+CUST-00395,Hossam Zaki,30-Oct-2022,Dakahlia,Consumer,49
+CUST-00538,Nada Younes,02-Nov-2022,ALE,Consumer,26
+CUST-00241,Ibrahim Gouda,16-May-2023,Cairo,Corporate,46
+CUST-00014,Salma Mahmoud,2022-10-28,Giza,Small Business,27
+CUST-00658,Hossam Saad,22/01/2024,Faiyum,Consumer,64
+CUST-00476,Nesma Zaki,26-Dec-2022,Qalyubia,Consumer,48
+CUST-00706,Omar Kamal,10/18/2023,Qalyubia,Consumer,30
+CUST-00315,Habiba Saad,2024-08-24,GIZA,Corporate,49
+CUST-00362,Yasmin Mahmoud,06/04/2023,GIZA,Consumer,46
+CUST-00591,Ahmed Fahmy,30-Dec-2022,SUEZ,Small Business,53
+CUST-00321,Nesma Gouda,03/11/2024,  Giza  ,Small Business,35
+CUST-00673,Mostafa Rashad,2022-06-19,Giza,Corporate,59
+CUST-00565,Nour Saad,2023-04-21,Cairo,Consumer,20
+CUST-00356,Nesma Naguib,03/12/2023,QALYUBIA,Corporate,46
+CUST-00035,Ali Shawky,01/26/2022,Dakahlia,Corporate,38
+CUST-00335,Khaled Ali,05/01/2024,Minya,Consumer,40
+CUST-00689,Heba Younes,2023-03-07,Giza,,62
+CUST-00377,Mostafa Gouda,22/05/2024,Alexandria,Small Business,61
+CUST-00185,Nesma Nabil,2023-05-25,Cairo,Small Business,50
+CUST-00424,Dina Hassan,08/27/2022,Qalyubia,Corporate,62
+CUST-00326,Hassan Naguib,2024-03-19,Giza,Small Business,56
+CUST-00188,Rania Nabil,04-Jul-2023,Cairo,Consumer,45
+CUST-00285,Rania Shawky,17-Jan-2022,Cairo,Corporate,44
+CUST-00392,Nada Sabry,13-Sep-2024,Alexandria,Consumer,33
+CUST-00777,Ahmed Aziz,2022-04-03,Cairo,Small Business,31
+CUST-00166,Mahmoud Rashad,23-Apr-2023,Gharbia,Small Business,26
+CUST-00348,Farida Sabry,15/05/2024,Alexandria,Consumer,61
+CUST-00299,Adham Gouda,2024-05-04,Suez,Corporate,52
+CUST-00536,Nour Rashad,2024-05-21,Cairo,Consumer,58
+CUST-00230,Rania Fahmy,2024-08-16,Giza,Small Business,42
+CUST-00695,Amr Farouk,13/03/2023,Dakahlia,Small Business,34
+CUST-00042,Habiba Fathy,31/03/2023,Alexandria,Consumer,41
+CUST-00588,Aya Sabry,04/25/2024,Cairo,Consumer,47
+CUST-00544,Rania Zaki,2022-01-05,Cairo,Consumer,64
+CUST-00447,Farida Fathy,19-Jul-2024,Cairo,Small Business,46
+CUST-00448,Hassan Mahmoud,09/21/2023,Dakahlia,,59
+CUST-00350,Karim Aziz,11/09/2022,cairo,Small Business,62
+CUST-00046,Aya Aziz,2022-05-09,Beheira,Consumer,22
+CUST-00109,Khaled Naguib,05/06/2023,Giza,Small Business,-5
+CUST-00618,Heba Saad,2023-07-24,  Giza  ,Consumer,55
+CUST-00662,Nour Farouk,21-Apr-2023,  Qalyubia  ,Consumer,43
+CUST-00030,Rania Nabil,02/04/2024,Ismailia,Consumer,47
+CUST-00182,Omar Nabil,2024-08-26,Alexandria,Corporate,44
+CUST-00622,Salma Younes,14-Aug-2022,Minya,Corporate,22
+CUST-00420,Mahmoud Rashad,06/05/2024,Giza,Small Business,38
+CUST-00635,Mahmoud Gouda,21/04/2024,Giza,Small Business,44
+CUST-00105,Sara Khalil,13/06/2024,Cairo,Consumer,55
+CUST-00061,Laila Zaki,03/02/2023,MONUFIA,Small Business,45
+CUST-00659,Mahmoud Hassan,19-May-2024,Qalyubia,Consumer,55
+CUST-00084,Mohamed Rashad,01-Aug-2024,Cairo,Small Business,54
+CUST-00491,Amr Ibrahim,11/16/2023,Giza,Corporate,44
+CUST-00316,Hossam Rashad,20/04/2022,Cairo,,43
+CUST-00451,Adham Adel,03/24/2024,Cairo,Small Business,63
+CUST-00382,Omar Zaki,2023-10-03,Giza,Corporate,32
+CUST-00423,Hossam Adel,2024-02-18,Port Said,Consumer,18
+CUST-00497,Heba Fathy,2024-04-22,Dakahlia,Corporate,34
+CUST-00769,Heba Zaki,13-Sep-2022,Cairo,Corporate,59
+CUST-00740,Nesma Farouk,2024-07-03,Suez,Corporate,52
+CUST-00524,Rana Gouda,2022-04-15,Cairo,Corporate,41
+CUST-00446,Rana Shawky,2022-01-31,Alexandria,Small Business,29
+CUST-00664,Tarek Younes,24/05/2022,Alexandria,Consumer,54
+CUST-00001,Nesma Farouk,03-Apr-2023,Qalyubia,Small Business,39
+CUST-00790,Hassan Sabry,02/29/2024,Cairo,Consumer,49
+CUST-00627,Adham Mahmoud,30-Nov-2023,Faiyum,Small Business,25
+CUST-00458,Sherif Kamal,2022-08-31,Sharqia,Corporate,62
+CUST-00489,Mona Mahmoud,09/27/2022,Alexandria,Small Business,32
+CUST-00089,Aya Aziz,08-Dec-2022,Beheira,Consumer,50
+CUST-00484,Nesma Farouk,2022-02-25,Giza,Small Business,23
+CUST-00461,Yasmin Kamal,18-May-2023,Cairo,Consumer,32
+CUST-00078,Farida Naguib,2022-04-24,Giza,Corporate,55
+CUST-00269,Ibrahim Shawky,08/02/2022,Ismailia,Small Business,37
+CUST-00124,Habiba Aziz,29-Jan-2022,Giza,Consumer,63
+CUST-00298,Hassan Zaki,08/09/2024,Cairo,Consumer,54
+CUST-00096,Yasmin Rashad,08-Apr-2023,Cairo,Small Business,36
+CUST-00734,Sara Aziz,03-Oct-2022,Alexandria,Corporate,39
+CUST-00012,Ali Ibrahim,2023-03-21,Aswan,Corporate,63
+CUST-00115,Adham Rashad,18/09/2023,Giza,Corporate,46
+CUST-00429,Habiba Rashad,09/24/2024,Monufia,Corporate,24
+CUST-00258,Salma Gouda,2023-09-05,  Beheira  ,,33
+CUST-00732,Ahmed Hassan,22-Nov-2023,CAIRO,Corporate,24
+CUST-00765,Ahmed Younes,2024-04-14,BEHEIRA,Consumer,40
+CUST-00353,Sherif Adel,20-Jun-2022,Alexandria,Consumer,29
+CUST-00793,Mostafa Shawky,27/08/2022,Giza,Corporate,59
+CUST-00691,Amr Naguib,05/18/2022,Giza,Consumer,23
+CUST-00532,Yasmin Kamal,2024-05-10,Dakahlia,Corporate,29
+CUST-00170,Hossam Adel,2022-10-09,Cairo,,57
+CUST-00240,Hassan Kamal,02-Dec-2022,Ismailia,Small Business,25
+CUST-00278,Adham Shawky,2023-07-18,Dakahlia,Corporate,39
+CUST-00161,Sherif Sabry,05-Jun-2023,Giza,Consumer,26
+CUST-00074,Yasmin Fahmy,2024-03-06,MINYA,Corporate,23
+CUST-00530,Youssef Gouda,27-Dec-2023,Luxor,Consumer,39
+CUST-00063,Mahmoud Ibrahim,05/01/2024,Cairo,Small Business,24
+CUST-00762,Laila Gouda,03/22/2023,Qalyubia,Corporate,52
+CUST-00493,Rania Gouda,21/06/2024,Giza,Small Business,23
+CUST-00741,Salma Shawky,04-Nov-2022,Giza,Corporate,21
+CUST-00751,Salma Nabil,2023-12-29,Giza,Corporate,43
+CUST-00742,Rana Ali,09-Dec-2023,CAIRO,Consumer,34
+CUST-00048,Hassan Khalil,01/03/2022,giza,Consumer,26
+CUST-00763,Yasmin Sabry,05/09/2023,Qalyubia,Consumer,46
+CUST-00592,Habiba Ali,02/16/2022,Faiyum,Small Business,26
+CUST-00799,Habiba Rashad,01/01/2022,Beheira,Corporate,42
+CUST-00506,Mohamed Fahmy,04/17/2024,Port Said,Small Business,35
+CUST-00021,Rania Ali,08/31/2022,Alexandria,,54
+CUST-00425,Ahmed Fahmy,02-Jan-2022,Beheira,Small Business,65
+CUST-00653,Hassan Gouda,04-Aug-2023,Giza,Small Business,45
+CUST-00193,Habiba Farouk,07/23/2022,Sharqia,Small Business,50
+CUST-00643,Habiba Hassan,21-Jul-2023,ISM,Consumer,25
+CUST-00216,Adham Mahmoud,17-Nov-2023,Faiyum,Consumer,58
+CUST-00245,Mahmoud Mahmoud,2023-03-10,Giza,Consumer,52
+CUST-00364,Farida Khalil,10-Oct-2023,Alexandria,Corporate,26
+CUST-00060,Ibrahim Naguib,08-Apr-2023,FAIYUM,Small Business,39
+CUST-00222,Dina Kamal,14-Aug-2024,Faiyum,Small Business,49
+CUST-00177,Yasmin Rashad,16/03/2022,Gharbia,Consumer,46
+CUST-00450,Khaled Saad,28/01/2023,CAIRO,Consumer,59
+CUST-00056,Mahmoud Ibrahim,2022-11-26,Sharqia,Consumer,26
+CUST-00723,Hossam Shawky,01/25/2024,Cairo,Corporate,33
+CUST-00255,Ibrahim Ibrahim,14-Apr-2022,Sharqia,Small Business,56
+CUST-00386,Mostafa Shawky,03/14/2022,Giza,Consumer,64
+CUST-00198,Yasmin Shawky,15-Apr-2024,Cairo,Small Business,61
+CUST-00069,Mohamed Khalil,2024-08-09,Dakahlia,Corporate,35
+CUST-00723,Hossam Shawky,2024-01-25,Cairo,Corporate,33
+CUST-00745,Mohamed Naguib,05/05/2022,Giza,Corporate,56
+CUST-00714,Sherif Naguib,06/03/2023,Cairo,Consumer,50
+CUST-00169,Farida Younes,07/05/2024,Giza,Consumer,34
+CUST-00186,Laila Aziz,09/08/2022,SHARQIA,Consumer,21
+CUST-00036,Ali Ibrahim,2023-10-13,Suez,Corporate,37
+CUST-00642,Nour Farouk,02-Nov-2022,GHARBIA,Corporate,59
