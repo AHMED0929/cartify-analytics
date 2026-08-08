@@ -4,7 +4,7 @@ An end-to-end analytics project: a deliberately messy, custom-built retail datas
 cleaned and modeled in Power Query, analyzed in SQL Server, and visualized in an
 interactive Power BI dashboard with customer segmentation and time-intelligence.
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](cartify-analytics/Images/Dashboard.png)
 
 ## Overview
 
